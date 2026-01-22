@@ -1,4 +1,6 @@
 Sistema de Gerenciamento de Consultório Médico
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange)](https://github.com/)
+
 
 Este projeto é um sistema completo para gerenciar um consultório médico, contemplando pacientes, médicos, consultas, prontuários e relatórios. O objetivo é oferecer funcionalidades para CRUD, agendamento de consultas, controle de histórico médico e estatísticas de atendimentos.
 O sistema é desenvolvido em Java com JavaFX para interface gráfica e utiliza banco de dados para persistência. É um ótimo projeto para portfólio, aplicando POO, Design Patterns e boas práticas de programação.
